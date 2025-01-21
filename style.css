@@ -504,13 +504,16 @@ header.sticky .nav-bar{
     width: 80%;
 }
 .bar .bootstrap:before{
-    width: 80%;
+    width: 95%;
 }
 .bar .javascript:before{
     width: 80%;
 }
 .bar .php:before{
     width: 85%;
+}
+.bar .mysql:before{
+    width: 90%;
 }
 .bar .react:before{
     width: 80%;
@@ -520,6 +523,9 @@ header.sticky .nav-bar{
 }
 .bar .mongodb:before{
     width: 95%;
+}
+.bar .api:before{
+    width: 75%;
 }
 
 .experience-card{
